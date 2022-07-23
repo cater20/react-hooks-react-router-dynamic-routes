@@ -5,7 +5,7 @@ import MovieShow from "./MovieShow";
 
 function MoviesPage({ movies }) {
   const match = useRouteMatch();
- // console.log(match);
+
 
   return (
     <div>

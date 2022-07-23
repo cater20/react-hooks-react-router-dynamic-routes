@@ -1,6 +1,5 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import MoviesList from "./MoviesList";
 
 function MovieShow({movies}) {
     const params = useParams();
