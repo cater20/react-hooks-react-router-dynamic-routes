@@ -462,4 +462,4 @@ abstract components that fill in the data for each 'page' on demand. Very cool!
 [object destructuring]:
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 [use-route-match]: https://v5.reactrouter.com/web/api/Hooks/useroutematch
-[use-params]: https://v5.reactrouter.com/web/api/Hooks/useparams
+[use-params]: https://v5.reactrouter.com/web/api/Hooks/usepara
